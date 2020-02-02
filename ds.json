@@ -1,0 +1,16 @@
+[
+  { 
+    id: 1,
+    title: 'Avon',
+    descrition: 'Avon cream'
+    price: 300,
+    img: '/img/1.jpeg'
+  },
+  {
+    id: 2,
+    title: 'Oriflame',
+    descrition: 'Oriflame cream'
+    price: 2350,
+    img: '/img/1.jpeg'
+  }
+]
